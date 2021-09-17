@@ -45,5 +45,6 @@
     <orderEntry type="library" name="org.slf4j:slf4j-api:1.7.23" level="application" />
     <orderEntry type="library" name="guava-19.0" level="project" />
     <orderEntry type="library" name="commons-collections4-4.0" level="project" />
+    <orderEntry type="library" name="jsoup" level="project" />
   </component>
 </module>
